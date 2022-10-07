@@ -1,0 +1,87 @@
+[
+    {
+        "coin": {
+            "name": "Bitcoin Cash",
+            "icon": "bch.svg",
+            "shortName": "BCH"
+        },
+        "price": 120.65,
+        "durations": [
+            "-0.2",
+            "4.9",
+            "6.5"
+        ],
+        "liquidity": "12,349,421",
+        "marketCap": "1,334,678,656",
+        "supply": "19,191,769",
+        "address": "ep_1234"
+    },
+    {
+        "coin": {
+            "name": "Green Ben",
+            "icon": "benswap.webp",
+            "shortName": "EBEN"
+        },
+        "price": 130.65,
+        "durations": [
+            "-0.2",
+            "4.9",
+            "-6.5"
+        ],
+        "liquidity": "14,349,421",
+        "marketCap": "2,334,678,656",
+        "supply": "12,191,769",
+        "address": "ep_6789"
+    },
+    {
+        "coin": {
+            "name": "LAW",
+            "icon": "law.webp",
+            "shortName": "LAW"
+        },
+        "price": 140.65,
+        "durations": [
+            "-0.2",
+            "4.9",
+            "6.5"
+        ],
+        "liquidity": "10,349,421",
+        "marketCap": "3,334,678,656",
+        "supply": "14,191,769",
+        "address": "ep_1011"
+    },
+    {
+        "coin": {
+            "name": "TANGO",
+            "icon": "tango.webp",
+            "shortName": "TANGO"
+        },
+        "price": 150.65,
+        "durations": [
+            "-0.2",
+            "-4.9",
+            "6.5"
+        ],
+        "liquidity": "19,349,421",
+        "marketCap": "4,334,678,656",
+        "supply": "17,191,769",
+        "address": "ep_1213"
+    },
+    {
+        "coin": {
+            "name": "flexUSD",
+            "icon": "flexusd.webp",
+            "shortName": "FLEXUSD"
+        },
+        "price": 160.65,
+        "durations": [
+            "0.2",
+            "4.9",
+            "6.5"
+        ],
+        "liquidity": "16,349,421",
+        "marketCap": "5,334,678,656",
+        "supply": "20,191,769",
+        "address": "ep_1314"
+    }
+]
