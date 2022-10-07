@@ -1,7 +1,7 @@
 [
     {
         "coin": {
-            "name": "Cash",
+            "name": "123 Cash",
             "icon": "bch.svg",
             "shortName": "BCH"
         },
