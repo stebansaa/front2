@@ -223,7 +223,7 @@
         "id": 12,
         "coin": {
             "name": "Trust EVM",
-            "icon": "evm.png",
+            "icon": "trustevm.png",
             "shortName": "EVM"
         },
         "price": 19016.52,
