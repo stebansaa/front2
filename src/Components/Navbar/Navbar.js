@@ -16,14 +16,14 @@ const Navbar = ({ dark, setDark, orderBy, setOrderBy }) => {
         <div className="">
           <div className="flex justify-end px-2">
             <div className="flex items-center flex-col md:flex-row gap-4 md:gap-0">
-              <a href="##" className="btn btn-sm btn-outline">
+              <a href="https://bridge.trustswap.finance" className="btn btn-sm btn-outline">
                 Bridge{' '}
                 <i className="fa-solid fa-arrow-right-arrow-left ml-1"></i>
               </a>
               <a href="##" className="btn btn-sm btn-outline mx-5">
                 List <i className="fa-solid fa-clipboard-list ml-1"></i>
               </a>
-              <a href="##" className="btn btn-sm btn-outline btn-success">
+              <a href="https://swap.trustswap.finance" className="btn btn-sm btn-outline btn-success">
                 Swap
               </a>
               <div className="dropdown dropdown-end ">
