@@ -3,7 +3,7 @@
         "id": 1,
         "coin": {
             "name": "Bitcoin",
-            "icon": "btc.svg",
+            "icon": "btc.png",
             "shortName": "BTC"
         },
         "price": 19016.52,
@@ -23,7 +23,7 @@
         "id": 2,
         "coin": {
             "name": "Ethereum",
-            "icon": "eth.svg",
+            "icon": "eth.png",
             "shortName": "ETH"
         },
         "price": 19016.52,
@@ -43,7 +43,7 @@
         "id": 3,
         "coin": {
             "name": "Binance chain",
-            "icon": "bnb.svg",
+            "icon": "bnb.png",
             "shortName": "BNB"
         },
         "price": 19016.52,
@@ -63,7 +63,7 @@
         "id": 4,
         "coin": {
             "name": "EOS",
-            "icon": "eos.svg",
+            "icon": "eos.png",
             "shortName": "EOS"
         },
         "price": 19016.52,
@@ -83,7 +83,7 @@
         "id": 5,
         "coin": {
             "name": "TELOS",
-            "icon": "tlos.svg",
+            "icon": "tlos.png",
             "shortName": "Tlos"
         },
         "price": 19016.52,
@@ -103,7 +103,7 @@
         "id": 6,
         "coin": {
             "name": "WAX",
-            "icon": "waxp.svg",
+            "icon": "waxp.png",
             "shortName": "WAXP"
         },
         "price": 19016.52,
@@ -123,7 +123,7 @@
         "id": 7,
         "coin": {
             "name": "UX",
-            "icon": "utx.svg",
+            "icon": "utx.png",
             "shortName": "UTX"
         },
         "price": 19016.52,
@@ -143,7 +143,7 @@
         "id": 8,
         "coin": {
             "name": "USDT",
-            "icon": "usdt.svg",
+            "icon": "usdt.png",
             "shortName": "USDT"
         },
         "price": 19016.52,
@@ -163,7 +163,7 @@
         "id": 9,
         "coin": {
             "name": "ZAP",
-            "icon": "zap.svg",
+            "icon": "zap.png",
             "shortName": "ZAP"
         },
         "price": 19016.52,
@@ -183,7 +183,7 @@
         "id": 10,
         "coin": {
             "name": "OMNI",
-            "icon": "charm.svg",
+            "icon": "charm.png",
             "shortName": "CHARM"
         },
         "price": 19016.52,
@@ -203,7 +203,7 @@
         "id": 11,
         "coin": {
             "name": "BOX",
-            "icon": "box.svg",
+            "icon": "box.png",
             "shortName": "BOX"
         },
         "price": 19016.52,
@@ -223,7 +223,7 @@
         "id": 12,
         "coin": {
             "name": "TrustSwap",
-            "icon": "Swap.svg",
+            "icon": "Swap.png",
             "shortName": "SWAP"
         },
         "price": 19016.52,
