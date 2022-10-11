@@ -122,9 +122,9 @@
     {   
         "id": 7,
         "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
+            "name": "UX",
+            "icon": "utx.svg",
+            "shortName": "UTX"
         },
         "price": 19016.52,
         "durations": [
@@ -142,9 +142,9 @@
     {   
         "id": 8,
         "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
+            "name": "USDT",
+            "icon": "usdt.svg",
+            "shortName": "USDT"
         },
         "price": 19016.52,
         "durations": [
@@ -162,9 +162,9 @@
     {   
         "id": 9,
         "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
+            "name": "ZAP",
+            "icon": "zap.svg",
+            "shortName": "ZAP"
         },
         "price": 19016.52,
         "durations": [
@@ -182,9 +182,9 @@
     {   
         "id": 10,
         "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
+            "name": "OMNI",
+            "icon": "charm.svg",
+            "shortName": "CHARM"
         },
         "price": 19016.52,
         "durations": [
@@ -202,9 +202,9 @@
     {   
         "id": 11,
         "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
+            "name": "BOX",
+            "icon": "box.svg",
+            "shortName": "BOX"
         },
         "price": 19016.52,
         "durations": [
@@ -222,9 +222,9 @@
     {   
         "id": 12,
         "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
+            "name": "TrustSwap",
+            "icon": "Swap.svg",
+            "shortName": "SWAP"
         },
         "price": 19016.52,
         "durations": [
