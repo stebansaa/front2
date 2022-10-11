@@ -82,7 +82,7 @@
     {   
         "id": 5,
         "coin": {
-            "name": "TELOS",
+            "name": "Telos",
             "icon": "telos.png",
             "shortName": "Tlos"
         },
@@ -102,7 +102,7 @@
     {   
         "id": 6,
         "coin": {
-            "name": "WAX",
+            "name": "WAXP",
             "icon": "waxp.png",
             "shortName": "WAXP"
         },
@@ -219,8 +219,28 @@
         "detail": "http://swap.truswap.finance/",
         "buy": "http://swap.trustswap.finance/"
     },
-    {   
+        {   
         "id": 12,
+        "coin": {
+            "name": "Trust EVM",
+            "icon": "evm.png",
+            "shortName": "EVM"
+        },
+        "price": 19016.52,
+        "durations": [
+            "-0.22",
+            "-1.19",
+            "-5.41"
+        ],
+        "liquidity": "12,349,421",
+        "marketCap": "364,564,568,975",
+        "supply": "19,176,431",
+        "address": "ep_1234",
+        "detail": "http://swap.truswap.finance/",
+        "buy": "http://swap.trustswap.finance/"
+    }
+    {   
+        "id": 14,
         "coin": {
             "name": "TrustSwap",
             "icon": "Swap.png",
