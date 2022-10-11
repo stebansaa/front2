@@ -238,7 +238,7 @@
         "address": "ep_1234",
         "detail": "http://swap.truswap.finance/",
         "buy": "http://swap.trustswap.finance/"
-    }
+    },
     {   
         "id": 14,
         "coin": {
