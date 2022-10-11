@@ -1,7 +1,8 @@
 [
-    {
+    {   
+        "id": 1,
         "coin": {
-            "name": "123 Cash",
+            "name": "Bitcoin Cash",
             "icon": "bch.svg",
             "shortName": "BCH"
         },
@@ -14,9 +15,12 @@
         "liquidity": "12,349,421",
         "marketCap": "1,334,678,656",
         "supply": "19,191,769",
-        "address": "ep_1234"
+        "address": "ep_1234",
+        "detail": "http://google.com/",
+        "buy": "http://google.com/"
     },
     {
+        "id": 2,
         "coin": {
             "name": "Green Ben",
             "icon": "benswap.webp",
@@ -31,9 +35,11 @@
         "liquidity": "14,349,421",
         "marketCap": "2,334,678,656",
         "supply": "12,191,769",
-        "address": "ep_6789"
+        "address": "ep_6789",
+        "buy": "http://google.com/"
     },
     {
+        "id": 3,
         "coin": {
             "name": "LAW",
             "icon": "law.webp",
@@ -48,9 +54,11 @@
         "liquidity": "10,349,421",
         "marketCap": "3,334,678,656",
         "supply": "14,191,769",
-        "address": "ep_1011"
+        "address": "ep_1011",
+        "buy": "http://google.com/"
     },
     {
+        "id": 4,
         "coin": {
             "name": "TANGO",
             "icon": "tango.webp",
@@ -65,9 +73,11 @@
         "liquidity": "19,349,421",
         "marketCap": "4,334,678,656",
         "supply": "17,191,769",
-        "address": "ep_1213"
+        "address": "ep_1213",
+        "buy": "http://google.com/"
     },
     {
+        "id": 5,
         "coin": {
             "name": "flexUSD",
             "icon": "flexusd.webp",
@@ -82,6 +92,8 @@
         "liquidity": "16,349,421",
         "marketCap": "5,334,678,656",
         "supply": "20,191,769",
-        "address": "ep_1314"
+        "address": "ep_1314",
+        "buy": "http://google.com/",
+        "detail": "http://google.com/"
     }
 ]

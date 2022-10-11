@@ -1,6 +1,7 @@
 import Navbar from './Components/Navbar/Navbar';
 import { useState, useEffect } from 'react';
 import DataTable from './Components/DataTable/DataTable';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   const [dark, setDark] = useState(true);
@@ -19,6 +20,7 @@ function App() {
     <div data-theme={dark ? "dark" : "light"} style={{ minHeight: "100vh" }}>
       <Navbar dark={dark} setDark={setDark} orderBy={orderBy} setOrderBy={setOrderBy}  />
       <DataTable dark={dark} coinData={coinData} orderBy={orderBy} />
+      <Footer dark={dark} setDark={setDark} />
       {/* <ToastContainer /> */}
     </div>
   );
