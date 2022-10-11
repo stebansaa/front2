@@ -22,7 +22,7 @@ const DataTable = ({ dark, coinData, orderBy }) => {
            <a href="https://pomelo.io/grants/trustswap">
            <div className='bg-[#fbf0df] gap-10 flex items-center justify-center w-max px-5 mx-auto mt-5 rounded'>
                 <img className='w-[150px]' src={pomelo} alt="pomelo" />
-                <span className='text-[#021a50] text-[20px]'>Support us on Pomelo seasson 4!</span>
+                <span className='text-[#021a50] text-[20px]'>Support us on Pomelo season 4!</span>
            </div>
            </a>
             <h3 className='text-3xl my-5 pl-5'>Antelope market capitalization</h3>
