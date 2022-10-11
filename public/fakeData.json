@@ -123,7 +123,7 @@
         "id": 7,
         "coin": {
             "name": "UX",
-            "icon": "utx.png",
+            "icon": "uxcoin.ico",
             "shortName": "UTX"
         },
         "price": 19016.52,
@@ -243,7 +243,7 @@
         "id": 14,
         "coin": {
             "name": "TrustSwap",
-            "icon": "Swap.png",
+            "icon": "swapcoin.svg",
             "shortName": "SWAP"
         },
         "price": 19016.52,
