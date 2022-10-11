@@ -83,7 +83,7 @@
         "id": 5,
         "coin": {
             "name": "TELOS",
-            "icon": "tlos.png",
+            "icon": "telos.png",
             "shortName": "Tlos"
         },
         "price": 19016.52,
