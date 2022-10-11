@@ -162,7 +162,7 @@
     {   
         "id": 9,
         "coin": {
-            "name": "ZAP",
+            "name": "Zappy Finance",
             "icon": "zap.png",
             "shortName": "ZAP"
         },
@@ -182,7 +182,7 @@
     {   
         "id": 10,
         "coin": {
-            "name": "OMNI",
+            "name": "Omnidex",
             "icon": "charm.png",
             "shortName": "CHARM"
         },
@@ -202,7 +202,7 @@
     {   
         "id": 11,
         "coin": {
-            "name": "BOX",
+            "name": "DefiBox",
             "icon": "box.png",
             "shortName": "BOX"
         },
