@@ -203,7 +203,7 @@
         "id": 11,
         "coin": {
             "name": "DefiBox",
-            "icon": "box.png",
+            "icon": "defibox.webp",
             "shortName": "BOX"
         },
         "price": 19016.52,
