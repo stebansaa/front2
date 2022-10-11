@@ -2,98 +2,21 @@
     {   
         "id": 1,
         "coin": {
-            "name": "Bitcoin Cash",
-            "icon": "bch.svg",
-            "shortName": "BCH"
+            "name": "Bitcoin",
+            "icon": "btc.svg",
+            "shortName": "BTC"
         },
-        "price": 120.65,
+        "price": 19016.52,
         "durations": [
-            "-0.2",
-            "4.9",
-            "6.5"
+            "-0.22",
+            "-1.19",
+            "-5.41"
         ],
         "liquidity": "12,349,421",
-        "marketCap": "1,334,678,656",
-        "supply": "19,191,769",
+        "marketCap": "364,564,568,975",
+        "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://google.com/",
-        "buy": "http://google.com/"
-    },
-    {
-        "id": 2,
-        "coin": {
-            "name": "Green Ben",
-            "icon": "benswap.webp",
-            "shortName": "EBEN"
-        },
-        "price": 130.65,
-        "durations": [
-            "-0.2",
-            "4.9",
-            "-6.5"
-        ],
-        "liquidity": "14,349,421",
-        "marketCap": "2,334,678,656",
-        "supply": "12,191,769",
-        "address": "ep_6789",
-        "buy": "http://google.com/"
-    },
-    {
-        "id": 3,
-        "coin": {
-            "name": "LAW",
-            "icon": "law.webp",
-            "shortName": "LAW"
-        },
-        "price": 140.65,
-        "durations": [
-            "-0.2",
-            "4.9",
-            "6.5"
-        ],
-        "liquidity": "10,349,421",
-        "marketCap": "3,334,678,656",
-        "supply": "14,191,769",
-        "address": "ep_1011",
-        "buy": "http://google.com/"
-    },
-    {
-        "id": 4,
-        "coin": {
-            "name": "TANGO",
-            "icon": "tango.webp",
-            "shortName": "TANGO"
-        },
-        "price": 150.65,
-        "durations": [
-            "-0.2",
-            "-4.9",
-            "6.5"
-        ],
-        "liquidity": "19,349,421",
-        "marketCap": "4,334,678,656",
-        "supply": "17,191,769",
-        "address": "ep_1213",
-        "buy": "http://google.com/"
-    },
-    {
-        "id": 5,
-        "coin": {
-            "name": "flexUSD",
-            "icon": "flexusd.webp",
-            "shortName": "FLEXUSD"
-        },
-        "price": 160.65,
-        "durations": [
-            "0.2",
-            "4.9",
-            "6.5"
-        ],
-        "liquidity": "16,349,421",
-        "marketCap": "5,334,678,656",
-        "supply": "20,191,769",
-        "address": "ep_1314",
-        "buy": "http://google.com/",
-        "detail": "http://google.com/"
+        "detail": "http://swap.truswap.finance/",
+        "buy": "http://swap.trustswap.finance/"
     }
 ]
