@@ -20,7 +20,107 @@
         "buy": "http://swap.trustswap.finance/"
     },
     {   
-        "id": 1,
+        "id": 2,
+        "coin": {
+            "name": "Ethereum",
+            "icon": "eth.svg",
+            "shortName": "ETH"
+        },
+        "price": 19016.52,
+        "durations": [
+            "-0.22",
+            "-1.19",
+            "-5.41"
+        ],
+        "liquidity": "12,349,421",
+        "marketCap": "364,564,568,975",
+        "supply": "19,176,431",
+        "address": "ep_1234",
+        "detail": "http://swap.truswap.finance/",
+        "buy": "http://swap.trustswap.finance/"
+    },
+    {   
+        "id": 3,
+        "coin": {
+            "name": "Binance chain",
+            "icon": "bnb.svg",
+            "shortName": "BNB"
+        },
+        "price": 19016.52,
+        "durations": [
+            "-0.22",
+            "-1.19",
+            "-5.41"
+        ],
+        "liquidity": "12,349,421",
+        "marketCap": "364,564,568,975",
+        "supply": "19,176,431",
+        "address": "ep_1234",
+        "detail": "http://swap.truswap.finance/",
+        "buy": "http://swap.trustswap.finance/"
+    },
+    {   
+        "id": 4,
+        "coin": {
+            "name": "EOS",
+            "icon": "eos.svg",
+            "shortName": "EOS"
+        },
+        "price": 19016.52,
+        "durations": [
+            "-0.22",
+            "-1.19",
+            "-5.41"
+        ],
+        "liquidity": "12,349,421",
+        "marketCap": "364,564,568,975",
+        "supply": "19,176,431",
+        "address": "ep_1234",
+        "detail": "http://swap.truswap.finance/",
+        "buy": "http://swap.trustswap.finance/"
+    },
+    {   
+        "id": 5,
+        "coin": {
+            "name": "TELOS",
+            "icon": "tlos.svg",
+            "shortName": "Tlos"
+        },
+        "price": 19016.52,
+        "durations": [
+            "-0.22",
+            "-1.19",
+            "-5.41"
+        ],
+        "liquidity": "12,349,421",
+        "marketCap": "364,564,568,975",
+        "supply": "19,176,431",
+        "address": "ep_1234",
+        "detail": "http://swap.truswap.finance/",
+        "buy": "http://swap.trustswap.finance/"
+    },
+    {   
+        "id": 6,
+        "coin": {
+            "name": "WAX",
+            "icon": "waxp.svg",
+            "shortName": "WAXP"
+        },
+        "price": 19016.52,
+        "durations": [
+            "-0.22",
+            "-1.19",
+            "-5.41"
+        ],
+        "liquidity": "12,349,421",
+        "marketCap": "364,564,568,975",
+        "supply": "19,176,431",
+        "address": "ep_1234",
+        "detail": "http://swap.truswap.finance/",
+        "buy": "http://swap.trustswap.finance/"
+    },
+    {   
+        "id": 7,
         "coin": {
             "name": "Bitcoin",
             "icon": "btc.svg",
@@ -40,7 +140,7 @@
         "buy": "http://swap.trustswap.finance/"
     },
     {   
-        "id": 1,
+        "id": 8,
         "coin": {
             "name": "Bitcoin",
             "icon": "btc.svg",
@@ -60,7 +160,7 @@
         "buy": "http://swap.trustswap.finance/"
     },
     {   
-        "id": 1,
+        "id": 9,
         "coin": {
             "name": "Bitcoin",
             "icon": "btc.svg",
@@ -80,7 +180,7 @@
         "buy": "http://swap.trustswap.finance/"
     },
     {   
-        "id": 1,
+        "id": 10,
         "coin": {
             "name": "Bitcoin",
             "icon": "btc.svg",
@@ -100,7 +200,7 @@
         "buy": "http://swap.trustswap.finance/"
     },
     {   
-        "id": 1,
+        "id": 11,
         "coin": {
             "name": "Bitcoin",
             "icon": "btc.svg",
@@ -120,107 +220,7 @@
         "buy": "http://swap.trustswap.finance/"
     },
     {   
-        "id": 1,
-        "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
-        },
-        "price": 19016.52,
-        "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
-        ],
-        "liquidity": "12,349,421",
-        "marketCap": "364,564,568,975",
-        "supply": "19,176,431",
-        "address": "ep_1234",
-        "detail": "http://swap.truswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
-    },
-    {   
-        "id": 1,
-        "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
-        },
-        "price": 19016.52,
-        "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
-        ],
-        "liquidity": "12,349,421",
-        "marketCap": "364,564,568,975",
-        "supply": "19,176,431",
-        "address": "ep_1234",
-        "detail": "http://swap.truswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
-    },
-    {   
-        "id": 1,
-        "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
-        },
-        "price": 19016.52,
-        "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
-        ],
-        "liquidity": "12,349,421",
-        "marketCap": "364,564,568,975",
-        "supply": "19,176,431",
-        "address": "ep_1234",
-        "detail": "http://swap.truswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
-    },
-    {   
-        "id": 1,
-        "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
-        },
-        "price": 19016.52,
-        "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
-        ],
-        "liquidity": "12,349,421",
-        "marketCap": "364,564,568,975",
-        "supply": "19,176,431",
-        "address": "ep_1234",
-        "detail": "http://swap.truswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
-    },
-    {   
-        "id": 1,
-        "coin": {
-            "name": "Bitcoin",
-            "icon": "btc.svg",
-            "shortName": "BTC"
-        },
-        "price": 19016.52,
-        "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
-        ],
-        "liquidity": "12,349,421",
-        "marketCap": "364,564,568,975",
-        "supply": "19,176,431",
-        "address": "ep_1234",
-        "detail": "http://swap.truswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
-    },
-    {   
-        "id": 1,
+        "id": 12,
         "coin": {
             "name": "Bitcoin",
             "icon": "btc.svg",
