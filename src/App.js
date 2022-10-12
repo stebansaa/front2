@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
 
-    fetch("./fakeData.json")
+    fetch("http://206.189.197.33/api/coinsData")
       .then(res => res.json())
       .then(data => setCoinData(data));    
   }, [])
