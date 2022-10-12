@@ -8,11 +8,11 @@
         },
         "price": 19016.52,
         "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
+            "-0.21",
+            "0.15",
+            "-5.76"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
@@ -28,38 +28,18 @@
         },
         "price": 19016.52,
         "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
+            "-0.23",
+            "0.56",
+            "-5.32"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
-        "supply": "19,176,431",
+        "supply": "122,754,603",
         "address": "ep_1234",
         "detail": "http://swap.trustswap.finance/",
         "buy": "http://swap.trustswap.finance/"
     },
-    {   
-        "id": 3,
-        "coin": {
-            "name": "Binance chain",
-            "icon": "bnb.png",
-            "shortName": "BNB"
-        },
-        "price": 19016.52,
-        "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
-        ],
-        "liquidity": "12,349,421",
-        "marketCap": "364,564,568,975",
-        "supply": "19,176,431",
-        "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
-    },
-    {   
+        {   
         "id": 4,
         "coin": {
             "name": "EOS",
@@ -72,11 +52,11 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
         "buy": "http://swap.trustswap.finance/"
     },
     {   
@@ -92,12 +72,12 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 6,
@@ -112,12 +92,12 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 7,
@@ -132,12 +112,12 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 8,
@@ -152,12 +132,12 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 9,
@@ -172,12 +152,12 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 10,
@@ -192,12 +172,12 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 11,
@@ -212,12 +192,12 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
         {   
         "id": 12,
@@ -232,7 +212,7 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
@@ -252,7 +232,7 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
@@ -272,7 +252,27 @@
             "-1.19",
             "-5.41"
         ],
-        "liquidity": "12,349,421",
+        "liquidity": "nan",
+        "marketCap": "364,564,568,975",
+        "supply": "19,176,431",
+        "address": "ep_1234",
+        "detail": "http://swap.trustswap.finance/",
+        "buy": "http://swap.trustswap.finance/"
+    },
+    {   
+        "id": 15,
+        "coin": {
+            "name": "Chintai",
+            "icon": "chex.png",
+            "shortName": "CHEX"
+        },
+        "price": 19016.52,
+        "durations": [
+            "-0.22",
+            "-1.19",
+            "-5.41"
+        ],
+        "liquidity": "nan",
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
