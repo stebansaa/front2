@@ -56,7 +56,7 @@
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
         "buy": "http://swap.trustswap.finance/"
     },
     {   
@@ -76,8 +76,8 @@
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 6,
@@ -96,8 +96,8 @@
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 7,
@@ -116,8 +116,8 @@
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 8,
@@ -136,8 +136,8 @@
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 9,
@@ -156,8 +156,8 @@
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 10,
@@ -176,8 +176,8 @@
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
     {   
         "id": 11,
@@ -196,8 +196,8 @@
         "marketCap": "364,564,568,975",
         "supply": "19,176,431",
         "address": "ep_1234",
-        "detail": "http://swap.trustswap.finance/",
-        "buy": "http://swap.trustswap.finance/"
+        "detail": "https://swap.trustswap.finance/telosmainnet/",
+        "buy": "https://swap.trustswap.finance/telosmainnet/"
     },
         {   
         "id": 12,
