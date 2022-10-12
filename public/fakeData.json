@@ -28,13 +28,13 @@
         },
         "price": 19016.52,
         "durations": [
-            "-0.22",
-            "-1.19",
-            "-5.41"
+            "-0.23",
+            "0.56",
+            "-5.32"
         ],
         "liquidity": "nan",
         "marketCap": "364,564,568,975",
-        "supply": "19,176,431",
+        "supply": "122,754,603",
         "address": "ep_1234",
         "detail": "http://swap.trustswap.finance/",
         "buy": "http://swap.trustswap.finance/"
