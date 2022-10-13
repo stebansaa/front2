@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
 
-    fetch("./fakeData.json")
+    fetch("https://spark-north-attraction.glitch.me/api/coinsData")
       .then(res => res.json())
       .then(data => setCoinData(data));    
   }, [])
